@@ -65,7 +65,7 @@ Feedback Loop:
 Continuously gather user feedback to identify areas for improvement.
 Regularly update the model based on new data and user interactions.
 
-##Example Use Case: Customer Support Chatbot
+## Example Use Case: Customer Support Chatbot
 Define the Problem: Automate responses to frequently asked customer questions.
 Data Preparation: Gather previous customer inquiries and their resolutions.
 
@@ -79,7 +79,7 @@ Testing: Ensure the chatbot responds accurately to various inquiries.
 Deployment: Host the chatbot on Azure App Service.
 Monitoring: Use Application Insights to track user interactions and chatbot performance.
 
-##Conclusion
+## Conclusion
 By following these steps, you can effectively design and implement an AI solution using Azure OpenAI that leverages your own data. 
 This approach ensures your application is tailored to meet specific user needs and can evolve based on ongoing feedback and new data. 
 If you have any further questions or need assistance with a particular aspect, feel free to ask!
